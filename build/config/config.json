@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0xaeBB26825793C369B8BD8fbC7119446A0c519293",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xaebb26825793c369b8bd8fbc7119446a0c519293#code",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Hugo Owens Nolan",
+  "SYMBOL": "HON",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true,
+  "TWITTER": "https://twitter.com/HugoOwensNFT",
+  "DISCORD": "https://discord.gg/79UHF7kCq4",
+  "WEBSITE": "https://hugoowens.co/"
+}
+
+
